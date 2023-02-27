@@ -15,6 +15,15 @@ Eu sou Ana Carolina, Sou Programadora Front-End, atualmnte estou aprendendo e cr
  E iniciando os estudos em:
  <br>
  <br>
- -[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]<br><br>-[![JavaScript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+ -[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]<br><br>-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]<br><br>
+
+## Contato: <br><br>
+-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-lopes-dos-santos-programador)<br><br>
+
+  #### Apaixonada por tecnologia🚀🚀<br><br>
+ ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaChSantos&show_icons=true&theme=onedark)<br><br>
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaChSantos)](https://github.com/anuraghazra/github-readme-stats)
 
  
